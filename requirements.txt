@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+networkx
+rank-bm25
+sentence-transformers
+faiss-cpu
+transformers
+torch
+streamlit
+python-dotenv
+openai
+matplotlib
+seaborn
+tqdm
